@@ -40,7 +40,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-     '''+W+'Creator  : Santri_Cyber_Santuy\n\t\t 
+     '''+W+'Creator  : Santri_Cyber_Santuy \n\t\t 
             github   : https://github.com/AKKUSANTUY
             WhatsApp : +6288221708799
             Insta    : @Akku_Santuy
